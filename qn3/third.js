@@ -6,3 +6,4 @@ function twoSum() {
 }
 
 console.log(twoSum());
+
